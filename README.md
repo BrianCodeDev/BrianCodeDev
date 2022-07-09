@@ -1,4 +1,4 @@
-Hi! I am Brian Kelley
-A front end website developer
-I specialized in html, css, scss, javascript and wordpress
-You can view a lot of my websites I developed on github or on my portfolio
+<h1>Hi! I am Brian Kelley</h1>
+<p>A front end website developer</p>
+<p>I specialized in html, css, scss, javascript and wordpress</p>
+<p>You can view a lot of my websites I developed on github or on my portfolio</p>
