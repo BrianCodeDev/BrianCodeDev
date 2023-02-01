@@ -8,6 +8,6 @@
 
 <div class="button" style="background-color:white; color:black; border-radius:6px;">
   <a href="#">
-  <button >Buy me coffee</button>
+  <button > ☕ Buy me coffee</button>
     </a>
   </div>
