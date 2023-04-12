@@ -23,9 +23,7 @@ The Development SEO softwares I use for managing websites is:
 - WORDPRESS
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]()
-<a href="https://www.linkedin.com/in/brian-kelley-profile/">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
-  </a>
+<a href="https://www.linkedin.com/in/brian-kelley-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"></a>
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)]()
 
 
