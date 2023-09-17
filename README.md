@@ -1,4 +1,4 @@
-![1680655770218](https://user-images.githubusercontent.com/107327227/231313267-0f4c5abd-61c1-4a44-907d-5d03c41acaf5.jpg)
+![1680655770218]()
 
 
 As a Front-end website developer, I am passionate about creating visually appealing and interactive websites that provide an exceptional user experience. Although I do not have any formal work experience or a college degree in web development, I have a strong foundation in HTML, CSS, and JavaScript, which I have acquired through self-study and practice.
