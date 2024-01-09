@@ -1,4 +1,5 @@
 
+![UC-5679221c-74a5-4296-b07c-a3ade9ee1127 (1)](https://github.com/BrianCodeDev/BrianCodeDev/assets/107327227/4004739f-057c-47e8-84b2-0677f292e2ef)
 
 As a Front-end website developer, I am passionate about creating visually appealing and interactive websites that provide an exceptional user experience. Although I do not have any formal work experience or a college degree in web development, I have a strong foundation in HTML, CSS, and JavaScript, which I have acquired through self-study and practice.
 
