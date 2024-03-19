@@ -1,5 +1,6 @@
 # 𝑯𝒊 ... 𝑰'𝒎 Brian Kelley ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="35" />
-| [<img src="https://user-images.githubusercontent.com/106914208/213802271-4489309a-a739-46ad-8c1d-d93e64a3f14b.svg" alt="Linkedin Logo" width="32">]
+| [<img src="![depositphotos_662901936-stock-illustration-silhouette-boy-girl-jogging-forest](https://github.com/BrianCodeDev/BrianCodeDev/assets/107327227/db3c2fb4-0040-4716-93c3-335f92f8d848)
+"  width="100%">]
 
 
 
