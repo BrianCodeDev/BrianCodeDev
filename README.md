@@ -1,5 +1,4 @@
 
-![map_globe_g1056221190](https://github.com/BrianCodeDev/BrianCodeDev/assets/107327227/d9c8030d-72ce-4372-bdff-aab7abc4e698)
 
 # 𝑯𝒊 ... 𝑰'𝒎 Brian Kelley and I like to explore new skills around the world ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="35" />
 
