@@ -36,28 +36,4 @@ Skilled Software Engineer with 3 years of self taught experience. Excels in maxi
   
 I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
 
-<details>
-<p>Open to collaborations and exciting projects, I'm eager to connect with fellow developers and tech enthusiasts. Let's build something amazing together!
 
-Happy coding!</p>
-
-</details>
-<div id="pointer"></div>
-<style>
-@keyframes slide {
-  0% { top: 0%; left: 0%; }
-  25% { top: 0%; left: 100%; }
-  50% { top: 100%; left: 100%; }
-  75% { top: 100%; left: 0%; }
-  100% { top: 0%; left: 0%; }
-}
-
-#pointer {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  background: url('https://upload.wikimedia.org/wikipedia/commons/4/46/Arrowed_cursor.svg') no-repeat center center;
-  background-size: cover;
-  animation: slide 10s infinite;
-}
-</style>
