@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
   
 ### ✨&nbsp; About Me
 
-Skilled Software Engineer with 3 years of self taught experience. Excels in maximizing web performance and creating customized solutions to expand my user experience.
+Skilled Software Engineer with 4 years of self taught experience. Excels in maximizing web performance and creating customized solutions to expand my user experience.
 
 ```
   ____                  ____                      
