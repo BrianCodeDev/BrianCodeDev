@@ -1,4 +1,3 @@
-![1738700796297](https://github.com/user-attachments/assets/6cf60633-7b94-44b9-bc9e-84ca5397a46a)
 
 Hi there! 👋
 
