@@ -1,29 +1,35 @@
-
 Hi there! 👋
 
-Welcome to my development space. This is where I open-source stuff and experiment with code. 🚀
+I’m a Software Engineer with 4+ years of self-taught experience specializing in WordPress development, custom themes and plugins, and full-stack web solutions. I’m passionate about solving real-world problems with clean, maintainable code and delivering exceptional user experiences.
 
-🔭 **Currently working on:**  
-I'm diving deep into creating custom WordPress themes and plugins, optimizing web performance, and expanding my knowledge of AWS and CI/CD pipelines.
+I love building custom WordPress solutions that are scalable, performance-optimized, and easy to maintain. Beyond WordPress, I enjoy working with PHP, JavaScript (React), AWS, and CI/CD pipelines to deliver reliable, modern web applications.
 
-🌱 **Learning:**  
-Currently learning more about WordPress development, theme customization, plugin optimization, and best practices for building scalable solutions.
+I’m committed to continuous learning, contributing to open source, and staying up-to-date with the latest in web development. I believe in sharing knowledge and collaborating with other developers to make the web a better place.
 
-💬 **Ask me about:**  
-Anything related to WordPress, PHP, JavaScript, React, WooCommerce, plugin development, or even the latest trends in web development.
+When I’m not coding, you’ll probably find me with a strong cup of coffee in hand ☕️, planning my next project, or exploring new tech to level up my skills.
 
-👨‍💻 **More about my work:**  
-Check out my portfolio and more details about my projects at [briancodedev.github.io](https://briancodedev.github.io).
+🔭 Currently Working On
+Custom WordPress themes and plugins
 
-⚡ **Fun fact:**  
-Coffee is my lifeblood before I get to code. ☕️
+Web performance optimization
 
----
+AWS architecture and CI/CD automation
 
-### About Me
+🌱 Learning
+Advanced WordPress development best practices
 
-I’m a **self-taught WordPress Developer** with 4 years of experience. My focus is on solving web challenges and delivering high-quality, custom WordPress solutions. I enjoy working on open-source projects to contribute back to the community and improve the WordPress ecosystem.
+Plugin security and performance tuning
 
-My passion lies in developing scalable, performance-optimized themes and plugins, enhancing user experiences, and finding efficient ways to integrate with APIs and third-party services.
+Scalable architecture and cloud deployments
 
----
+💬 Ask Me About
+WordPress (themes, plugins, WooCommerce)
+
+PHP, JavaScript, React
+
+API integrations and performance optimization
+
+AWS, Docker, CI/CD pipelines
+
+👨‍💻 See My Work
+Check out my portfolio and projects at briancodedev.github.io.
