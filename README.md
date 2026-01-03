@@ -1,4 +1,7 @@
-# 👋 Hi there!
+
+![beautiful-cliffs jpg](https://github.com/user-attachments/assets/aa669d62-1210-4908-870c-07cc48829ecd)
+# 👋 Hi
+there!
 
 Welcome to my development space! I’m a **Software Engineer** with 4+ years of self-taught experience specializing in **WordPress development**, custom themes and plugins, and full-stack web solutions.  
 
