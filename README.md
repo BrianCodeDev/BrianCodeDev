@@ -1,5 +1,3 @@
-
-![beautiful-cliffs jpg](https://github.com/user-attachments/assets/aa669d62-1210-4908-870c-07cc48829ecd)
 # 👋 Hi
 there!
 
