@@ -1,4 +1,4 @@
-m a Website Developer, Software Engineer, and Developer Creator who builds scalable, production-ready web applications with a strong focus on performance, usability, and long-term maintainability.
+Im a Website Developer, Software Engineer, and Developer Creator who builds scalable, production-ready web applications with a strong focus on performance, usability, and long-term maintainability.
 
 I’ve been self-taught for 4+ years, learning by building real projects, breaking things, fixing them, and shipping solutions that actually get used. My work sits at the intersection of clean engineering, creative problem-solving, and practical business needs.
 
