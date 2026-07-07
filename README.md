@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:briankelley141@gmail.com"><img src="https://img.shields.io/badge/Email-briankelley141@gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://briancodedev.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-4b9bff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/brian-dylan-kelley/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ ownership and keep growing.
 - 🔭 Building full-stack projects with React, TypeScript, Node, and Django
 - 🌱 Deepening my skills in cloud deployment, testing, and system design
 - 💬 Ask me about front-end, REST APIs, or turning an idea into a shipped app
-- 📫 Reach me at **coffeeman078@gmail.com**
+- 📫 Reach me at **briankelley141@gmail.com**
 
 ---
 
