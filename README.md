@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Brian Kelley banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Brian Kelley 👋</h1>
 <h3 align="center">Full-Stack Developer · building fast, reliable web applications</h3>
 
