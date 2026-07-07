@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · building fast, reliable web applications</h3>
 
 <p align="center">
-  <a href="mailto:coffeeman078@gmail.com"><img src="https://img.shields.io/badge/Email-coffeeman078@gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:briankelley141@gmail.com"><img src="https://img.shields.io/badge/Email-briankelley141@gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://briancodedev.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-4b9bff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
