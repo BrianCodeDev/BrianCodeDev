@@ -47,21 +47,6 @@ ownership and keep growing.
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Built with |
-| --- | --- | --- |
-| **[Portfolio Site](https://briancodedev.github.io/)** | My personal developer portfolio, designed and built from scratch | HTML · CSS · Django |
-| **[Student Management App](https://github.com/BrianCodeDev/Student-Management-App)** | A CRUD application for managing student records | Full-stack |
-| **[Fictional University](https://github.com/BrianCodeDev/Fictional-University)** | A themed university website with custom styling and components | SCSS |
-| **[ParaCube](https://github.com/BrianCodeDev/ParaCube)** | Project website with a clean, responsive layout | Web |
-
-> Replace the descriptions above with a sentence on the problem each project solves
-> and the result. Employers scan for impact, so lead with what it does and what you learned.
-
----
 
 ### 📊 GitHub Stats
 
