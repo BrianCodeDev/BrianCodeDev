@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Brian Kelley banner" width="100%">
+  <img src="[assets/banner.png](https://github.com/user-attachments/assets/f07963b1-6e54-4a21-a226-b032df4f35af)" alt="Brian Kelley banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Brian Kelley 👋</h1>
